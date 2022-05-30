@@ -69,6 +69,9 @@ function Register(props) {
           fullname: "",
           email: "",
           password: "",
+          gender: "",
+          phone: "",
+          address: "",
         });
       } else {
         const alert = (
