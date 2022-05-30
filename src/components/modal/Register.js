@@ -66,7 +66,7 @@ function Register(props) {
         );
         setMessage(alert);
         setForm({
-          name: "",
+          fullname: "",
           email: "",
           password: "",
         });
